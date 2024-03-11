@@ -1,0 +1,6 @@
+zig-cache/
+zig-out/
+
+.ccls-cache/
+.clang-format
+.vscode-ctags
